@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersTheobald\OddNumbersTheobald\bin\Debug\OddNumbersTheobald.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersTheobald\OddNumbersTheobald\bin\Debug\OddNumbersTheobald.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersTheobald\OddNumbersTheobald\bin\Debug\OddNumbersTheobald.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersTheobald\OddNumbersTheobald\obj\Debug\OddNumbersTheobald.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersTheobald\OddNumbersTheobald\obj\Debug\OddNumbersTheobald.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersTheobald\OddNumbersTheobald\obj\Debug\OddNumbersTheobald.pdb
